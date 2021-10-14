@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find Delivery</string>
+    <string name="facebook_app_id">922498884865771</string>
+    <string name="fb_login_protocol_scheme">fb922498884865771</string>
+</resources>
